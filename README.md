@@ -1,2 +1,2 @@
 # IEEE_YANG
-Move graduation thesis to my own github
+ジャーナル論文に関する実験
